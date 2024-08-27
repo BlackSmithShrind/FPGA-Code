@@ -1,0 +1,4 @@
+#ifndef __GP_PLATFORM_CONFIG_H_
+#define __GP_PLATFORM_CONFIG_H_
+
+#endif // __GP_PLATFORM_CONFIG_H_
